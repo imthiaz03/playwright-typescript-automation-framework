@@ -1,0 +1,23 @@
+{
+  "name": "playwright-typescript-automation-framework",
+  "version": "1.0.0",
+  "description": "Scalable UI test automation framework built with Playwright and TypeScript using Page Object Model, fixtures, reusable utilities, reporting, and CI/CD.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imthiaz03/playwright-typescript-automation-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/imthiaz03/playwright-typescript-automation-framework/issues"
+  },
+  "homepage": "https://github.com/imthiaz03/playwright-typescript-automation-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^22.20.2"
+  }
+}
